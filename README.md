@@ -39,8 +39,8 @@ This project is decoupled. You must run both the Python backend and the Next.js 
 #### 1. Clone the Repository
 Open your terminal or command prompt and run:
 ```bash
-git clone https://github.com/javoliang/USDTWD.git
-cd USDTWD
+git clone https://github.com/javoliang/usd-twd-forex-3d-strategy-optimization.git
+cd usd-twd-forex-3d-strategy-optimization
 ```
 
 #### 2. Start the FastAPI Backend
@@ -114,8 +114,8 @@ npm run dev
 #### 1. 複製儲存庫 (Clone Repository)
 開啟您的終端機 (Terminal) 或命令提示字元 (Command Prompt) 並執行：
 ```bash
-git clone https://github.com/javoliang/USDTWD.git
-cd USDTWD
+git clone https://github.com/javoliang/usd-twd-forex-3d-strategy-optimization.git
+cd usd-twd-forex-3d-strategy-optimization
 ```
 
 #### 2. 啟動 FastAPI 後端
